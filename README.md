@@ -5,9 +5,7 @@ Serenat Arch
 ## Getting Started
 
 Example
-<code>
-<pre>
-
+<code><pre>
 void main() => runApp(const MyApp());
 
 class MyApp extends StatelessWidget {
@@ -115,5 +113,4 @@ class _Page2 extends State<Page2> {
     );
   }
 }
-</pre>
-</code>
+</pre></code>
