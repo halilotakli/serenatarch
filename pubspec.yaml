@@ -1,6 +1,5 @@
 name: serenatarch
 description: Serenat Arch
-author: Halil OTAKLI
 homepage: https://github.com/halilotakli/serenatarch
 
 # The following defines the version and build number for your application.
@@ -17,7 +16,7 @@ homepage: https://github.com/halilotakli/serenatarch
 # This version is used _only_ for the Runner app, which is used if you just do
 # a `flutter run` or a `flutter make-host-app-editable`. It has no impact
 # on any other native host app that you embed your Flutter project into.
-version: 1.0.0+1
+version: 1.0.0
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
