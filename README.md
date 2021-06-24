@@ -110,7 +110,7 @@ class _Page2 extends State<Page2> {
           )
         ],
       ),
-    );
+    ); 
   }
 }
 </pre></code>
