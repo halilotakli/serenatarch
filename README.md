@@ -5,6 +5,7 @@ Serenat Arch
 ## Getting Started
 
 Example
+<pre>
 <code>
 void main() => runApp(const MyApp());
 
@@ -114,3 +115,4 @@ class _Page2 extends State<Page2> {
   }
 }
 </code>
+</pre>
